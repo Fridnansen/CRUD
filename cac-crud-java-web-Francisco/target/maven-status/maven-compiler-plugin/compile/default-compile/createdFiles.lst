@@ -1,0 +1,7 @@
+cac\crud22033\controlador\AppServlet.class
+cac\crud22033\modelo\Conexion.class
+cac\crud22033\modelo\ModeloMySQL.class
+cac\crud22033\modelo\ModeloFactory.class
+cac\crud22033\modelo\Modelo.class
+cac\crud22033\modelo\Alumno.class
+cac\crud22033\modelo\ModeloHC.class
