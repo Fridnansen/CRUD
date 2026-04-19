@@ -94,14 +94,14 @@ http://localhost:8080
 
 📎 Project Type
 
-Academic Project
-Full Stack Java Project
-Spring Boot Application
-CRUD System
+- Academic Project
+- Full Stack Java Project
+- Spring Boot Application
+- CRUD System
 
 👨‍💻 Author
 
-Francisco José Díaz Villarreal
-Software Engineer
-Full Stack Developer
+- Francisco José Díaz Villarreal
+- Software Engineer
+- Full Stack Developer
 
