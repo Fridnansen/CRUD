@@ -5,10 +5,11 @@
 
 📌 Project Information
 
-- Program: Codo a Codo 4.0 – Full Stack Java
-- Institution: Gobierno de la Ciudad de Buenos Aires
-- Duration: 208 hours
-- Year: 2022
+- *Program:* Codo a Codo 4.0 – Full Stack Java
+- *Institution:* Gobierno de la Ciudad de Buenos Aires
+- *Duration:* 208 hours
+- *Year:* 2022
+  
 
 🚀 Technologies
 
@@ -21,6 +22,7 @@
 - JavaScript
 - Bootstrap
 - Maven
+  
 
 📖 Description
 
@@ -28,6 +30,7 @@
 - It implements a server-side architecture based on Servlets for request handling and JSP for dynamic content rendering.
 - The application connects to a MySQL database using JDBC, enabling persistent data storage and retrieval. Users can interact with the system through a web interface to manage records efficiently.
 - This project reflects fundamental concepts of backend development before modern frameworks like Spring Boot, focusing on low-level control of request handling, database communication, and application flow.
+  
 
 ⚙️ Features
 
@@ -39,6 +42,7 @@
 - Form handling with Servlets
 - Direct database access via JDBC
 - MVC-inspired structure
+  
 
 🏗️ Architecture
 
@@ -50,26 +54,28 @@
 - Java classes representing application data
 - Data Access Layer
 - JDBC-based interaction with MySQL database
+  
 
 🗄️ Database
 
 - The project uses a MySQL database connected via JDBC.
 - Database configuration is handled manually through connection parameters in the application code.
 
+
 ▶️ How to Run
 
-Clone repository:
+1. Clone repository:
 
-- git clone https://github.com/Fridnansen/CRUD.git
+git clone https://github.com/Fridnansen/CRUD.git
 
-  Open project in:
+2. Open project in:
 
 - IntelliJ
 - Eclipse
 - VS Code
 - Deploy on a Java EE server (e.g., Apache Tomcat)
 
-Access in browser:
+3. Access in browser:
 
 http://localhost:8080/
 
@@ -90,5 +96,6 @@ http://localhost:8080/
 
 👨‍💻 Author
 
-- Francisco José Díaz Villarreal
-- Software Engineer | Full Stack Developer
+Francisco José Díaz Villarreal
+
+Software Engineer | Full Stack Developer
