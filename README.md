@@ -1,12 +1,14 @@
 🧾 CRUD Web Application — Full Stack Java (Spring)
-Full Stack CRUD web application developed using Java Spring Boot.
-This project demonstrates backend REST architecture, database integration, and complete Create, Read, Update, Delete operations.
+
+- Full Stack CRUD web application developed using Java Spring Boot.
+- This project demonstrates backend REST architecture, database integration, and complete Create, Read, Update, Delete operations.
 
 📌 Project Information
-Program: Codo a Codo 4.0 – Full Stack Java
-Institution: Gobierno de la Ciudad de Buenos Aires
-Duration: 208 hours
-Year: 2022
+
+- Program: Codo a Codo 4.0 – Full Stack Java
+- Institution: Gobierno de la Ciudad de Buenos Aires
+- Duration: 208 hours
+- Year: 2022
 
 🚀 Technologies
 
@@ -23,9 +25,10 @@ Year: 2022
 - Maven
 
 📖 Description
-This project is a full stack CRUD web application built with Spring Boot.
-It implements a complete backend architecture using MVC pattern, REST endpoints, and database persistence.
-The application allows managing records through a web interface, demonstrating full CRUD functionality and backend service structure.
+
+- This project is a full stack CRUD web application built with Spring Boot.
+- It implements a complete backend architecture using MVC pattern, REST endpoints, and database persistence.
+- The application allows managing records through a web interface, demonstrating full CRUD functionality and backend service structure.
 
 ⚙️ Features
 
@@ -57,11 +60,12 @@ CRUD
 <img width="231" height="335" alt="image" src="https://github.com/user-attachments/assets/dd9b5951-75e9-4a00-b55c-b4cfe736b4a3" />
 
 
+
 🗄️ Database
 
-The project uses MySQL database with JPA/Hibernate ORM.
-Configuration file:
-application.properties
+- The project uses MySQL database with JPA/Hibernate ORM.
+- Configuration file:
+- application.properties
 
 Example:
 spring.datasource.url=jdbc:mysql://localhost:3306/databasespring.datasource.username=rootspring.datasource.password=1234spring.jpa.hibernate.ddl-auto=updatespring.jpa.show-sql=true
