@@ -1,111 +1,81 @@
-🧾 CRUD Web Application — Full Stack Java (Spring)
+🧾 CRUD Web Application — Full Stack Java (Java EE)
 
-- Full Stack CRUD web application developed using Java Spring Boot.
-- This project demonstrates backend REST architecture, database integration, and complete Create, Read, Update, Delete operations.
+Full Stack CRUD web application developed using Java EE technologies.
+This project demonstrates a classic web architecture using Servlets, JSP, and JDBC for database interaction, implementing complete Create, Read, Update, and Delete (CRUD) operations.
 
 📌 Project Information
-
-- Program: Codo a Codo 4.0 – Full Stack Java
-- Institution: Gobierno de la Ciudad de Buenos Aires
-- Duration: 208 hours
-- Year: 2022
-
+Program: Codo a Codo 4.0 – Full Stack Java
+Institution: Gobierno de la Ciudad de Buenos Aires
+Duration: 208 hours
+Year: 2022
 🚀 Technologies
-
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Maven
-
+Java 7
+Java EE (Servlets, JSP, JSTL)
+JDBC
+MySQL
+HTML
+CSS
+JavaScript
+Bootstrap
+Maven
 📖 Description
 
-- This project is a full stack CRUD web application built with Spring Boot.
-- It implements a complete backend architecture using MVC pattern, REST endpoints, and database persistence.
-- The application allows managing records through a web interface, demonstrating full CRUD functionality and backend service structure.
+This project is a full stack CRUD web application built using a traditional Java EE approach.
+It implements a server-side architecture based on Servlets for request handling and JSP for dynamic content rendering.
+
+The application connects to a MySQL database using JDBC, enabling persistent data storage and retrieval. Users can interact with the system through a web interface to manage records efficiently.
+
+This project reflects fundamental concepts of backend development before modern frameworks like Spring Boot, focusing on low-level control of request handling, database communication, and application flow.
 
 ⚙️ Features
-
-- Create records
-- Read data from database
-- Update existing records
-- Delete records
-- Spring Boot REST architecture
-- MVC design pattern
-- MySQL database integration
-- JPA / Hibernate ORM
-- Service layer separation
-- Repository pattern
-
+Create records
+Read data from database
+Update existing records
+Delete records
+Server-side rendering with JSP
+Form handling with Servlets
+Direct database access via JDBC
+MVC-inspired structure
 🏗️ Architecture
-
-- Controller Layer
-- Handles HTTP requests and routes
-- Service Layer
-- Business logic implementation
-- Repository Layer
-- Database access using Spring Data JPA
-- Model Layer
-- Entity classes mapped to database tables
-
-📂 Project Structure
-CRUD 
-
-<img width="231" height="335" alt="image" src="https://github.com/user-attachments/assets/dd9b5951-75e9-4a00-b55c-b4cfe736b4a3" />
-
-
-
+Controller Layer
+Implemented using Servlets to handle HTTP requests and responses
+View Layer
+JSP pages with JSTL for dynamic content rendering
+Model Layer
+Java classes representing application data
+Data Access Layer
+JDBC-based interaction with MySQL database
 🗄️ Database
 
-- The project uses MySQL database with JPA/Hibernate ORM.
-- Configuration file:
-- application.properties
-
-Example:
-spring.datasource.url=jdbc:mysql://localhost:3306/databasespring.datasource.username=rootspring.datasource.password=1234spring.jpa.hibernate.ddl-auto=updatespring.jpa.show-sql=true
+The project uses a MySQL database connected via JDBC.
+Database configuration is handled manually through connection parameters in the application code.
 
 ▶️ How to Run
 
-Clone repository
+Clone repository:
+
 git clone https://github.com/Fridnansen/CRUD.git
 Open project in:
+IntelliJ
+Eclipse
+VS Code
+Deploy on a Java EE server (e.g., Apache Tomcat)
 
-- IntelliJ
-- Eclipse
-- VS Code
+Access in browser:
 
-Run Spring Boot application:
-CRUDApplication.java
-Open browser:
-http://localhost:8080
-
+http://localhost:8080/
 🎓 Skills Demonstrated
-
-- Spring Boot Development
-- Full Stack Java
-- REST API Design
-- MVC Architecture
-- Database Integration
-- JPA / Hibernate
-- CRUD Application Design
-- Backend Development
-
+Java Web Development (Java EE)
+Servlets and JSP
+JDBC Database Integration
+MVC Architecture Fundamentals
+CRUD Application Design
+Backend Development Basics
 📎 Project Type
-
-- Academic Project
-- Full Stack Java Project
-- Spring Boot Application
-- CRUD System
-
+Academic Project
+Full Stack Java (Java EE)
+CRUD System
 👨‍💻 Author
 
-- Francisco José Díaz Villarreal
-- Software Engineer
-- Full Stack Developer
-
+Francisco José Díaz Villarreal
+Software Engineer | Full Stack Developer
