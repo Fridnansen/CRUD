@@ -54,7 +54,7 @@ The application allows managing records through a web interface, demonstrating f
 📂 Project Structure
 CRUD 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4d67adc-8fc1-463e-a416-b765ad42a71a" />
+<img width="231" height="335" alt="image" src="https://github.com/user-attachments/assets/dd9b5951-75e9-4a00-b55c-b4cfe736b4a3" />
 
 
 🗄️ Database
