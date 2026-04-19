@@ -54,17 +54,8 @@ The application allows managing records through a web interface, demonstrating f
 📂 Project Structure
 CRUD 
 
-┣ src 
-┃ ┣ main 
-┃ ┃ ┣ java 
-┃ ┃ ┃ ┗ controller 
-┃ ┃ ┃ ┗ service 
-┃ ┃ ┃ ┗ repository 
-┃ ┃ ┃ ┗ model 
-┃ ┃ ┗ resources 
-┃ ┃   ┗ templates 
-┃ ┃   ┗ static 
-┗ pom.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4d67adc-8fc1-463e-a416-b765ad42a71a" />
+
 
 🗄️ Database
 
@@ -103,14 +94,14 @@ http://localhost:8080
 
 📎 Project Type
 
-- Academic Project
-- Full Stack Java Project
-- Spring Boot Application
-- CRUD System
+Academic Project
+Full Stack Java Project
+Spring Boot Application
+CRUD System
 
 👨‍💻 Author
 
-- Francisco José Díaz Villarreal
-- Software Engineer
-- Full Stack Developer
+Francisco José Díaz Villarreal
+Software Engineer
+Full Stack Developer
 
